@@ -1,0 +1,26 @@
+{
+"todo":[
+    {
+        "id":2,
+        "userid":20,
+        "title":"fill stacl",
+        "created":1234567,
+        "category":"chores"
+    }
+],
+"com":[
+    {
+        "number":2,
+        "poster":20,
+        "title":"fil"
+    }
+],
+"profile":[
+    {
+        "id":2,
+        "poster":20,
+        "body":"fil"
+    }
+]
+
+}
